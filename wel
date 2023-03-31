@@ -1,0 +1,58 @@
+<div class="second">
+  <h2 class="design">Architecture & Interior Design</h2>
+  <p class="lorem">
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequuntu.
+  </p>
+</div>
+<div class="three">
+  <blockquote>
+    <div class="what">
+      <ion-icon class="ion" name="arrow-redo-outline"></ion-icon>
+      <h4>Arhitecture</h4>
+      <p>Lorem saibang sai<br />vengab bctc hvyvdas <br />dseec sai</p>
+    </div>
+    <div class="what2">
+      <ion-icon class="ion" name="arrow-redo-outline"></ion-icon>
+      <h4>Arhitecture</h4>
+      <p>Lorem saibang sai<br />vengab bctc hvyvdas <br />dseec sai</p>
+    </div>
+    <h4 class="about">ABOUT US</h4>
+    <h1 class="we">
+      We work at all<br />
+      scales and in all<br />
+      sectors.
+    </h1>
+    <p class="lorem2">
+      Lorem ipsum dolor sit amet consectetur adipisicing<br />
+      elit. Alias necessitatibus<br />
+      facilis omnis, provident sint esse quire
+    </p>
+  </blockquote>
+  <blockquote>
+    <div class="what3">
+      <ion-icon class="ion" name="arrow-redo-outline"></ion-icon>
+      <h4>Arhitecture</h4>
+      <p>Lorem saibang sai<br />vengab bctc hvyvdas <br />dseec sai</p>
+    </div>
+    <div class="what4">
+      <ion-icon class="ion" name="arrow-redo-outline"></ion-icon>
+      <h4>Arhitecture</h4>
+      <p>Lorem saibang sai<br />vengab bctc hvyvdas <br />dseec sai</p>
+    </div>
+    <h2 class="the">
+      The future of how we live,wor and<br />
+      play
+    </h2>
+    <p class="lorem3">
+      Lorem ipsum dolor sit amet, consectetur<br />
+      adipisicing elit. Ratione autem rem qui
+    </p>
+    <h3 class="look">Look toward the future</h3>
+    <p class="lorem4">
+      Lorem ipsum dolor sit amet consectetur adipisicing<br />
+      elit. Soluta eius nulla velit quibusdam
+    </p>
+    <button class="btn">learn more</button>
+  </blockquote>
+</div>
+<img src=".../../download2.jpg" height="20%" width="20%" class="img2"/ >

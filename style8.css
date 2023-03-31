@@ -1,0 +1,573 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.go {
+  font-size: 20px;
+  height: 1vh;
+  width: 10%;
+}
+.venkata {
+  background-color: white;
+  margin-left: 50%;
+
+  margin-top: 250px;
+  margin-left: -30px;
+  width: 40%;
+  height: 40vh;
+
+  color: black;
+  padding-left: 20px;
+  padding-top: 30px;
+  position: absolute;
+}
+.do {
+  margin-top: 20px;
+}
+.in {
+  margin-top: 20px;
+}
+.fro {
+  margin-top: 20px;
+}
+.btn5 {
+  color: white;
+  background-color: blue;
+  border-radius: 32px;
+  padding: 10px 10px 10px 10px;
+  margin-top: 20px;
+}
+.white {
+  background-color: white;
+  height: 100vh;
+  width: 50%;
+  margin-right: 50%;
+  position: absolute;
+}
+
+.yellow {
+  background-color: yellow;
+
+  width: 50%;
+  height: 100vh;
+  margin-left: 50%;
+  position: absolute;
+  margin-left: whitespace;
+}
+.mani2 {
+  border: 2px solid yellow;
+  background-color: blue;
+  border-radius: 32px;
+}
+.img {
+  position: absolute;
+  margin-left: 40%;
+}
+.img2 {
+  position: absolute;
+  margin-left: 48%;
+  margin-top: 100px;
+}
+.img3 {
+  margin-left: 29%;
+  margin-top: 15%;
+  position: absolute;
+}
+.two {
+  background-color: blue;
+  width: 100%;
+  height: 49vh;
+}
+.second {
+  height: 40vh;
+  width: 100%;
+  margin-top: 10px;
+  background-color: blueviolet;
+}
+.design {
+  margin-left: 300px;
+  color: blue;
+  margin-top: 10px;
+}
+.lorem {
+  margin-left: 300px;
+  margin-top: 20px;
+  color: black;
+}
+.three {
+  height: 120vh;
+  background-color: blueviolet;
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  margin-top: 50px;
+  padding-top: 110px;
+}
+.what {
+  margin-left: 80px;
+  height: 19vh;
+  background-color: white;
+  width: 35%;
+  padding-left: 20px;
+  margin-bottom: 220px;
+}
+.what2 {
+  margin-left: 250px;
+  background-color: white;
+  height: 19vh;
+
+  width: 35%;
+  margin-top: -140px;
+  padding-left: 20px;
+  margin-bottom: 350px;
+}
+.what3 {
+  margin-left: 150px;
+  background-color: white;
+  height: 19vh;
+
+  width: 35%;
+  padding-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 530px;
+}
+.what4 {
+  margin-left: 370px;
+  background-color: white;
+  height: 19vh;
+
+  width: 35%;
+  margin-top: -470px;
+  padding-left: 20px;
+  margin-bottom: 220px;
+}
+
+.about {
+  color: white;
+  margin-left: 50px;
+  margin-top: -250px;
+  margin-bottom: 0px;
+}
+.we {
+  color: white;
+  font-size: 40px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.lorem2 {
+  color: white;
+  margin-left: 50px;
+  margin-top: 20px;
+  display: flex;
+}
+.the {
+  color: white;
+  margin-top: -140px;
+  margin-left: 80px;
+}
+.lorem3 {
+  color: white;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.look {
+  color: white;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.lorem4 {
+  color: white;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.btn {
+  color: black;
+  background-color: yellow;
+  border-radius: 32px;
+  margin-left: 80px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-top: 20px;
+}
+.four {
+  height: 79vh;
+  width: 100%;
+}
+.white2 {
+  background-color: white;
+  height: 70vh;
+  width: 50%;
+  margin-right: 50%;
+  position: absolute;
+  z-index: -1;
+}
+
+.yellow2 {
+  background-color: yellow;
+
+  width: 50%;
+  height: 50vh;
+  margin-left: 50%;
+  position: absolute;
+  margin-left: whitespace;
+  margin-top: 40px;
+}
+.img5 {
+  position: absolute;
+  margin-left: 40%;
+  margin-top: -30px;
+}
+.sai {
+  background-color: white;
+  margin-left: 30%;
+
+  margin-top: 80px;
+  width: 50%;
+  height: 69vh;
+  position: absolute;
+  padding-top: 0;
+  margin-right: -15px;
+}
+.who {
+  color: black;
+  margin-left: 10px;
+  margin-top: 40px;
+}
+.lorem6 {
+  color: black;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.from {
+  color: black;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.free {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.btn2 {
+  margin-left: 20px;
+  margin-top: 10px;
+  color: white;
+  background-color: blue;
+  border-radius: 32px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.from10 {
+  margin-top: 20px;
+}
+.btn10 {
+  color: white;
+  background-color: blue;
+  border-radius: 32px;
+  padding: 10px 10px 10px 10px;
+  margin-top: 20px;
+}
+.fifth {
+  height: 100vh;
+  width: 100%;
+}
+.blue1 {
+  width: 50%;
+  background-color: slateblue;
+  height: 100vh;
+  margin-right: 50%;
+  position: absolute;
+}
+.yellow3 {
+  width: 50%;
+  background-color: yellow;
+  height: 100vh;
+  margin-left: 50%;
+  position: absolute;
+}
+.img6 {
+  position: absolute;
+  margin-left: 35%;
+  margin-top: 25%;
+}
+.company {
+  margin-left: 100px;
+  margin-top: 50%;
+  font-size: 30px;
+}
+.lorem7 {
+  color: black;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.from1 {
+  color: black;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.free1 {
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.btn3 {
+  margin-left: 100px;
+  margin-top: 20px;
+  color: white;
+  background-color: blue;
+  border-radius: 32px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.sixth {
+  width: 100%;
+  height: 100vh;
+}
+.white3 {
+  width: 100%;
+  height: 60vh;
+  background-color: white;
+}
+.yellow4 {
+  width: 100%;
+  height: 40%;
+  background-color: yellow;
+}
+.img7 {
+  margin-left: 50%;
+  margin-top: 50px;
+}
+.img8 {
+  margin-top: 15%;
+  position: absolute;
+  margin-left: 120px;
+}
+.img9 {
+  margin-left: 400px;
+  height: 10.4rem;
+  width: 10.4rem;
+  border-radius: 50%;
+  margin-top: 20px;
+  border: 10px solid blue;
+  margin-top: -10;
+  margin-top: -30px;
+  position: absolute;
+}
+.sai3 {
+  background-color: #fff;
+  height: 50vh;
+  width: 30%;
+  margin-left: 730px;
+  position: absolute;
+  margin-top: -30px;
+  padding-left: 20px;
+  padding-top: 30px;
+  line-break: 10px;
+}
+
+.seventh {
+  width: 100%;
+  height: 50vh;
+  background-color: #fff;
+}
+.success {
+  background-color: blue;
+  margin-left: 120px;
+  height: 45vh;
+  width: 20%;
+  margin-top: -190px;
+  margin-bottom: -40px;
+  position: absolute;
+}
+.dot {
+  font-size: 60px;
+  margin-left: 10px;
+  color: yellow;
+  margin-top: 5px;
+}
+.sin {
+  margin-left: 10px;
+  color: #fff;
+}
+.minus {
+  margin-left: 60px;
+  color: #fff;
+}
+.yellow5 {
+  background-color: yellow;
+  width: 20%;
+  height: 25vh;
+  margin-top: 80px;
+}
+.img10 {
+  margin-left: 20%;
+  margin-top: -160px;
+}
+.raavi {
+  background-color: white;
+  width: 30%;
+  height: 40vh;
+  margin-left: 50%;
+  margin-top: -280px;
+}
+.lives {
+  margin-left: 100px;
+}
+.from2 {
+  color: black;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.free2 {
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.btn4 {
+  margin-left: 100px;
+  margin-top: 20px;
+  color: white;
+  background-color: blue;
+  border-radius: 32px;
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.eight {
+  width: 100%;
+  height: 100vh;
+}
+.yellow6 {
+  width: 40%;
+  background-color: yellow;
+  position: absolute;
+  height: 100vh;
+  margin-right: 30%;
+}
+.white5 {
+  width: 60%;
+  background-color: #fff;
+  position: absolute;
+  height: 100vh;
+  margin-left: 40%;
+}
+.img11 {
+  margin-top: 20px;
+  margin-left: -30px;
+  position: absolute;
+}
+.img12 {
+  margin-top: 160px;
+  margin-left: 50%;
+  position: absolute;
+  margin-right: -30px;
+}
+.mani {
+  background-color: yellow;
+  border: 2px solid yellow;
+}
+.img13 {
+  margin-top: 30px;
+  margin-left: 280px;
+}
+.stack {
+  background-color: #fff;
+  margin-left: 310px;
+  margin-top: 380px;
+  width: 60%;
+  height: 35vh;
+  margin-right: -60px;
+}
+.do {
+  margin-left: 10px;
+}
+.service,
+.from3,
+.free3,
+.btn5 {
+  margin-left: 10px;
+}
+.nine {
+  height: 50vh;
+  width: 100%;
+}
+.final {
+  background-color: #fff;
+  width: 100%;
+  height: 50vh;
+}
+.red1 {
+  background-color: white;
+  margin-left: 80px;
+  width: 60%;
+  height: 60vh;
+  margin-top: -60px;
+  position: absolute;
+}
+.up {
+  margin-left: 25%;
+  margin-top: 20px;
+}
+.text {
+  margin-left: 25%;
+  margin-top: 20px;
+}
+.to {
+  margin-left: 35%;
+  margin-top: 10px;
+}
+.btn6 {
+  border-radius: 32px;
+  background-color: aqua;
+  margin-left: 20px;
+  padding-left: 10px;
+  padding-right: 100px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border: #fff;
+}
+.btn7 {
+  border-radius: 32px;
+  background-color: aqua;
+  margin-left: 20px;
+  padding-left: 5px;
+  padding-right: 100px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border: #fff;
+}
+.btn8 {
+  border-radius: 32px;
+  background-color: aqua;
+  margin-left: 20px;
+  padding-left: 5px;
+  padding-right: 100px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border: #fff;
+}
+.last {
+  width: 90%;
+  margin-left: 20px;
+  height: 10vh;
+  background-color: blue;
+}
+.btn9 {
+  border-radius: 32px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 320px;
+  padding-right: 370px;
+  background-color: yellow;
+  margin-left: 20px;
+  margin-top: 20px;
+  border: white;
+}
+.pik {
+  margin-left: 38%;
+  margin-top: 10px;
+}
